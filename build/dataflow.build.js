@@ -1,4 +1,4 @@
-/*! dataflow.js - v0.0.7 - 2013-10-06 (7:24:40 PM GMT+0200)
+/*! dataflow.js - v0.0.7 - 2013-12-10 (10:15:27 PM EST)
 * Copyright (c) 2013 Forrest Oliphant; Licensed MIT, GPL */
 // Thanks bobnice http://stackoverflow.com/a/1583281/592125
 
